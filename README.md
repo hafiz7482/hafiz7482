@@ -2,16 +2,16 @@
 🎯 Software Quality Assurance Engineer (SQA) 
 📍 Dhaka, Bangladesh  
 
-💡 About Me-   
-  Hands-on experience in manual, functional, and regression testing. Skilled in SDLC/STLC, defect
-  tracking, and API testing (Postman) with a strong focus on accuracy, collaboration, and delivering highquality
-  software products. 
+💡 About Me   
+      Hands-on experience in manual, functional, and regression testing. Skilled in SDLC/STLC, defect
+    tracking, and API testing (Postman) with a strong focus on accuracy, collaboration, and delivering highquality
+    software products. 
   
 - Skilled in Manual, Functional, and Regression Testing  
 - Hands-on experience in API testing with Postman  
 - Familiar with SDLC, STLC, and Agile methodologies  
 
-🧪 **Testing Tools & Skills:**  
+🧪 Testing Tools & Skills-
     Jira | Postman | SQL | Git | Test Case Design | Bug Reporting  
 
 💡 Education-                                       
