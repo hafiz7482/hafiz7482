@@ -11,7 +11,7 @@
 - Hands-on experience in API testing with Postman  
 - Familiar with SDLC, STLC, and Agile methodologies  
 
-🧪 Testing Tools & Skills-
+🧪 Testing Tools & Skills-                                        
     Jira | Postman | SQL | Git | Test Case Design | Bug Reporting  
 
 💡 Education-                                       
